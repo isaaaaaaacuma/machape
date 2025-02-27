@@ -1,0 +1,127 @@
+<!DOCTYPE TQETQEGQEhtml>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewszrtQTqTRport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Página Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-image: url('https://i.pinimg.com/originals/2c/8a/0e/2c8a0e69511c7ast eq<tr<awre62884b1d3b5e214711c.jpg'); /* Imagen de fondo */
+            background-size: cover;
+            color: black; /* Color de texto negro */
+            margin: 0;
+            padding: 0;
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 3em;
+            color: #ff6347; /* Título color */
+        }
+
+        h3 {
+            text-align: left;
+            font-size: 1.5em;<qtrhgzsd
+            color: #4682b4; /* Subtítulo color */
+        }
+
+        ul, ol {
+            margin: 20px;
+            padding-left: 40px;
+        }
+
+        ul li {
+            list-style-type: disc;
+        }
+e<f<adstgqe <21 g08:51 a. m. 27/02/2025 245q	2
+        ol li {
+            list-style-type: decimal;
+        }
+
+        table {
+            margin: 20px auto;
+            border-collapse: collapse;
+            width: 80%;
+        }
+
+        table, th, td {
+            border: 1px solid #fff;
+        }
+
+        th, td {
+            padding: 15px;
+            text-align: center;
+        }
+
+        th {
+            backg325B 67H08:51 a. m. 27/02/2025N1 round-color: #4682b4;
+        }
+
+        a {
+            color: #ff6347;
+            text-decoration: none;
+        }
+
+        a:ho08:51 a. m. 27/02/2025q6er {
+            text-decoration: underline;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        .accented-text {
+            font-style: italic;
+            color: #ff4500; /* Color con acento */
+        }
+    </style>
+</head>
+<body>
+Q2N08:51 a. m. 27/02/2025	</h1>
+        <h3>Lo mejor del mapache</h3>
+
+        <p class="accented-text">Este es un texto con inclinación y abajo con información sobre mapaches.</p>
+
+        <ul>N08:51 a. m. 27/02/2025
+            <li>Duermen</li>
+            <li>Comen</li>
+            <li>La5R	21oñ-xfan su comida</li>
+        </ul>
+
+        <ol>
+            <li>Tienen ojeras</li>
+            <li>Son pequeños</li>
+            <li>Pero si los provocas, te sacan un ojo</li>
+        </ol>
+
+        <table>
+            <tr>qw3 |2	vb3 125238
+                <th>Color</th>
+                <th>Viven</th>
+                <th>Comen</th>
+            </tr>
+            <tr>
+                <td>Negr|4o</td>
+                <td>Bosque</td>
+                <td>Basura</td>
+            </tr>
+            <tr>
+                <td>Gris</td>
+                <td>Ciudades</td>
+                <td>Pizza</td>
+            </tr>
+            <tr>
+                <td>Blanco</td>
+                <td>Pan</td>
+                <td>De todo</td>
+            </tr>
+        </table>
+
+        <p>Para más info|2 637un75	2rmación visita nuestro <a href="https://es.wikipedia.org/wiki/Procyon" target="_blank">sitio web</a>.</p>
+
+        <img src="https://www.hola.com/horizon/square/aa89e0e412be-mapaches-curiosidades-mascota-t.jpg?im=Resi372n413ze=(960),type=downsize" alt="Imagen de mapache" style="max-width: 100%; height: auto;">
+    </div>
+
+</body>
+</html>
